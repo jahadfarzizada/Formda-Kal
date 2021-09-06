@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "244569033035",
+    "project_id": "formda-kal",
+    "storage_bucket": "formda-kal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244569033035:android:109c4dc4cb2be72c9000ce",
+        "android_client_info": {
+          "package_name": "com.example.formda_kal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244569033035-6jdu8sl48v778a2mglti8q1fklf7kl2s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.formda_kal",
+            "certificate_hash": "5bdc10d0f2d204cab4d5be914e01e14dd3b0cba7"
+          }
+        },
+        {
+          "client_id": "244569033035-ebtqbd716qmcs14chnl8phgbd4gun9gj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2WJws5eXVqvo5Q7_kVsBWg-F1ocdGsxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244569033035-ebtqbd716qmcs14chnl8phgbd4gun9gj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
